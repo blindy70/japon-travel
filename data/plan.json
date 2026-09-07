@@ -1,0 +1,426 @@
+{
+  "trip": {
+    "title": "Viaje a Japón — 2 semanas",
+    "dates": "Finales de mayo 2027",
+    "travelers": 3,
+    "origin": "Madrid, España",
+    "budget_per_person": "2.800 € (tope)",
+    "status": "pendiente",
+    "last_updated": "2026-09-07"
+  },
+  "categories": [
+    {
+      "id": "itinerario",
+      "title": "Itinerario",
+      "icon": "📍",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Ruta general",
+          "content": "Tokio → Kawaguchiko → Kioto → Osaka → Tokio"
+        },
+        {
+          "subtitle": "Día 1–5 — Tokio (5 noches)",
+          "items": [
+            "Llegada + jet lag",
+            "Senso-ji, Meiji-jingu, Tsukiji (desayuno)",
+            "Shibuya / Shinjuku",
+            "Day trip a Kamakura: Gran Buda, templos, costa"
+          ]
+        },
+        {
+          "subtitle": "Día 6 — Kawaguchiko (1 noche)",
+          "items": [
+            "Bus directo Shinjuku → Kawaguchiko (~2 h)",
+            "Lagos de los Cinco Fuji",
+            "Pagoda Chureito",
+            "Noche de ryokan con onsen"
+          ]
+        },
+        {
+          "subtitle": "Día 7 — Traslado a Kioto",
+          "items": [
+            "Mañana: vistas del Fuji",
+            "Bus Kawaguchiko → Mishima (~1,5 h)",
+            "Shinkansen Mishima → Kioto (~2 h)",
+            "Tarde libre en Kioto"
+          ]
+        },
+        {
+          "subtitle": "Día 8–12 — Kioto (5 noches: 7–11)",
+          "items": [
+            "Fushimi Inari",
+            "Kiyomizu-dera",
+            "Gion (barrio histórico)",
+            "Arashiyama: bosque de bambú + monte de monos",
+            "Kinkaku-ji (pabellón dorado) y Ginkaku-ji",
+            "Day trip a Nara: Todaiji, ciervos, Kasuga-taisha",
+            "Nishiki Market (gastronomía)"
+          ]
+        },
+        {
+          "subtitle": "Día 12 — Traslado a Osaka (2 noches: 12–13)",
+          "items": [
+            "Shinkansen Kioto → Osaka (~15 min)",
+            "Castillo de Osaka",
+            "Mercado Kuromon",
+            "Shinsekai (izakayas)",
+            "Dotonbori por la noche"
+          ]
+        },
+        {
+          "subtitle": "Día 13 — Osaka",
+          "items": [
+            "Mañana libre en Osaka: Umeda Sky Building u opción local",
+            "Shinkansen Osaka → Tokio por la tarde (~2 h 30, Nozomi)",
+            "Última tarde en Tokio"
+          ]
+        },
+        {
+          "subtitle": "Día 14 — Vuelo de regreso",
+          "items": [
+            "Shinkansen Osaka → Tokio (~2 h 30, Nozomi)",
+            "Última tarde en Tokio",
+            "Vuelo nocturno a Madrid"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "transporte",
+      "title": "Transporte",
+      "icon": "🚄",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Vuelos Madrid ↔ Tokio",
+          "items": [
+            "Precio habitual: 570–930 €",
+            "Vuelo directo más rápido: ~14 h 25 min (Haneda o Narita)",
+            "China Eastern 571–701 € (1 escala)",
+            "Air France 755–787 €",
+            "Turkish Airlines 793 €",
+            "JAL 842 € / Iberia 858 €",
+            "Etihad 708 €"
+          ]
+        },
+        {
+          "subtitle": "JR Pass — NO recomendado",
+          "content": "Billetes sueltos salen más baratos para este bucle. Descuentos EX Hayatoku 7/21/Wide por SmartEX."
+        },
+        {
+          "subtitle": "Shinkansen (billetes sueltos)",
+          "items": [
+            "Tokio → Kioto: ~14.000 ¥ (Nozomi reservado) — 2 h 15",
+            "Kioto → Osaka: ~6.000 ¥ — ~15 min",
+            "Osaka → Tokio: ~14.720 ¥ (Nozomi reservado) — 2 h 30",
+            "Mishima → Kioto: ~13.000 ¥ — ~2 h",
+            "Total estimado: ~¥47.000–48.000 (~300–310 €/pers)"
+          ]
+        },
+        {
+          "subtitle": "Tokio → Kawaguchiko",
+          "items": [
+            "Bus de autopista Shinjuku: ~2.200 ¥ (~2 h)",
+            "Alternativa: Fujikyu Railway"
+          ]
+        },
+        {
+          "subtitle": "Kawaguchiko → Kioto",
+          "items": [
+            "Bus a Mishima: 2.500 ¥ (~1 h 30)",
+            "Shinkansen Mishima → Kioto: ~2 h",
+            "Alternativa: night bus directo (9 h, 8.200–10.600 ¥)"
+          ]
+        },
+        {
+          "subtitle": "Transporte urbano",
+          "items": [
+            "Suica / Pasmo recargable (~50 €/pers)",
+            "Bus Kawaguchiko–Saiko–Motosuko: 1 día 1.500 ¥ / 2 días 2.000 ¥"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alojamiento",
+      "title": "Alojamiento",
+      "icon": "🏨",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Presupuesto general",
+          "content": "550–600 €/pers para 13 noches. Business hotels triples ~18.000–22.000 ¥/noche repartido (~40–45 €/pers/noche)."
+        },
+        {
+          "subtitle": "Tokio (5 noches)",
+          "items": [
+            "Business hotel triple (APA, Toyoko Inn, etc.)",
+            "Zona recomendada: Shinjuku o Shibuya",
+            "Reservar con cancelación gratuita"
+          ]
+        },
+        {
+          "subtitle": "Kawaguchiko (1 noche)",
+          "items": [
+            "Ryokan con onsen",
+            "~10.000–12.000 ¥/pers",
+            "Reservar con cancelación (riesgo climático)",
+            "Buscar apps de previsión de visibilidad del Fuji"
+          ]
+        },
+        {
+          "subtitle": "Kioto (5 noches)",
+          "items": [
+            "Business hotel triple o 2 habitaciones",
+            "Zona: estación de Kioto o Gion"
+          ]
+        },
+        {
+          "subtitle": "Osaka (2 noches)",
+          "items": [
+            "Business hotel triple",
+            "Zona: Namba o Umeda"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "presupuesto",
+      "title": "Presupuesto",
+      "icon": "💰",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Total estimado por persona",
+          "content": "~2.050–2.380 € (margen de ~400–700 € bajo el tope de 2.800 €)."
+        },
+        {
+          "subtitle": "Desglose",
+          "items": [
+            "Vuelos I/V Madrid–Tokio: 750–900 €",
+            "Alojamiento 13 noches: 550–600 €",
+            "Comida (14 días): 300–350 €",
+            "Shinkansen bucle completo: 300–320 €",
+            "Transporte urbano (Suica/Pasmo): ~50 €",
+            "eSIM / pocket WiFi: 15–25 €",
+            "Entradas (teamLab, templos...): 60–90 €",
+            "Seguro de viaje: 30–40 €"
+          ]
+        },
+        {
+          "subtitle": "Gastos diarios estimados",
+          "content": "Comida: ~2.500–4.000 ¥/día (16–26 €/día). Desayuno konbini + set lunch + izakaya."
+        }
+      ]
+    },
+    {
+      "id": "actividades",
+      "title": "Actividades",
+      "icon": "⛩️",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Tokio",
+          "items": [
+            "Senso-ji (templo)",
+            "Meiji-jingu (santuario)",
+            "Tsukiji (desayuno)",
+            "Shibuya / Shinjuku",
+            "Day trip Kamakura: Gran Buda, templos, costa"
+          ]
+        },
+        {
+          "subtitle": "Kawaguchiko",
+          "items": [
+            "Lagos de los Cinco Fuji",
+            "Pagoda Chureito",
+            "Onsen en ryokan"
+          ]
+        },
+        {
+          "subtitle": "Kioto",
+          "items": [
+            "Fushimi Inari",
+            "Kiyomizu-dera",
+            "Gion (barrio)",
+            "Arashiyama: bosque de bambú + monte de monos",
+            "Kinkaku-ji (pabellón dorado) y Ginkaku-ji",
+            "Nishiki Market"
+          ]
+        },
+        {
+          "subtitle": "Nara (day trip desde Kioto)",
+          "items": [
+            "Todaiji",
+            "Ciervos",
+            "Kasuga-taisha"
+          ]
+        },
+        {
+          "subtitle": "Osaka",
+          "items": [
+            "Castillo de Osaka",
+            "Mercado Kuromon",
+            "Shinsekai",
+            "Dotonbori"
+          ]
+        },
+        {
+          "subtitle": "Entradas / costs estimados",
+          "items": [
+            "teamLab: ~3.200 ¥",
+            "Templos: ~400–600 ¥ cada uno"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gastronomia",
+      "title": "Gastronomía",
+      "icon": "🍜",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Presupuesto comidas",
+          "content": "~2.500–4.000 ¥/día (16–26 €/día). Desayuno konbini + set lunch + izakaya."
+        },
+        {
+          "subtitle": "Tips",
+          "items": [
+            "Desayunos en konbini (7-Eleven, FamilyMart, Lawson) — baratos y buenos",
+            "Set lunch (ランチ) en restaurantes: mejor relación calidad-precio",
+            "Izakayas por la noche: comida variada y ambiente",
+            "Reservar restaurantes populares con antelación"
+          ]
+        },
+        {
+          "subtitle": "Zonas gastronómicas",
+          "items": [
+            "Tsukiji (Tokio): desayuno / mariscos",
+            "Dotonbori (Osaka): calle de la comida",
+            "Mercado Kuromon (Osaka): mariscos frescos",
+            "Shinsekai (Osaka): kushikatsu"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "documentacion",
+      "title": "Documentación",
+      "icon": "📄",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Pasaporte",
+          "content": "Vigencia mínima 6 meses. Sin visado para España (exención ~90 días)."
+        },
+        {
+          "subtitle": "Seguro de viaje",
+          "content": "Obligatorio de facto: sanidad privada cara sin seguro. Cobertura médica imprescindible. ~30–40 €/pers."
+        },
+        {
+          "subtitle": "eSIM / WiFi",
+          "content": "Imprescindible para Google Maps y Google Translate (cámara para menús). ~15–25 €."
+        }
+      ]
+    },
+    {
+      "id": "logistica",
+      "title": "Logística",
+      "icon": "📋",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Checklist de reservas (orden de prioridad)",
+          "items": [
+            "1. Vuelos Madrid ↔ Tokio — YA (sept 2026 hay buenos precios para mayo 2027)",
+            "2. Ryokan de Kawaguchiko — 2–3 meses antes (con cancelación)",
+            "3. Bus Shinjuku → Kawaguchiko y Shinkansen SmartEX — una vez fijadas fechas",
+            "4. Hoteles centrales con cancelación gratuita (Booking/Agoda)",
+            "5. teamLab (anticipado); resto de entradas en la misma fecha",
+            "6. Seguro de viaje y pasaporte en regla"
+          ]
+        },
+        {
+          "subtitle": "Pendiente",
+          "items": [
+            "Ajustar itinerario si el grupo quiere más/menos días en alguna ciudad",
+            "Fijar días concretos de mayo 2027",
+            "Buscar vuelos en Skyscanner / Google Flights",
+            "Definir hoteles concretos",
+            "Calcular desglose editable del presupuesto"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "title": "Cultura y etiqueta",
+      "icon": "🎌",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Reglas básicas",
+          "items": [
+            "Sin propinas en ningún sitio",
+            "Silencio en transporte público",
+            "Quitarse zapatos donde se indique",
+            "Lavarse antes de entrar en onsen",
+            "Hacer cola con orden"
+          ]
+        },
+        {
+          "subtitle": "Dinero y transporte",
+          "items": [
+            "Japón sigue dependiendo del efectivo: llevar yenes",
+            "Suica/Pasmo recargable para metro/bus (se puede cargar con tarjeta)"
+          ]
+        },
+        {
+          "subtitle": "Clima en mayo",
+          "items": [
+            "Templado: 18–26 °C, humedad soportable",
+            "Golden Week termina el 5 de mayo (precios y colas bajan)",
+            "Justo antes de temporada de lluvias (tsuyu, principios de junio)",
+            "Monte Fuji conserva capa de nieve",
+            "No hay sakura ni wisterias, pero vegetación en verde pleno"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "info",
+      "title": "Info práctica",
+      "icon": "ℹ️",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Apps imprescindibles",
+          "items": [
+            "Google Maps (navegación)",
+            "Google Translate (cámara para menús)",
+            "SmartEX (compra billetes Shinkansen)",
+            "Skyscanner / Google Flights (buscar vuelos)",
+            "Apps de previsión de visibilidad del Fuji"
+          ]
+        },
+        {
+          "subtitle": "Contactos de emergencia",
+          "items": [
+            "Policía: 110",
+            "Ambulancia / Incendios: 119",
+            "Embajada de España en Tokio: +81-3-3583-8530"
+          ]
+        },
+        {
+          "subtitle": "Riesgos",
+          "items": [
+            "El Fuji se oculta a veces con nubes",
+            "Sanidad privada cara sin seguro"
+          ]
+        }
+      ]
+    }
+  ]
+}
