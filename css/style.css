@@ -134,6 +134,22 @@ header p {
   color: #fff;
 }
 
+.category-map {
+  background: #12121f;
+  border: 1px solid #2a2a4a;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1.2rem;
+  text-align: center;
+}
+
+.category-map img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: inline-block;
+}
+
 .category-section {
   background: #1a1a2e;
   border: 1px solid #2a2a4a;

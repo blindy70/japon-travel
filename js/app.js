@@ -53,6 +53,10 @@
     html += '  <span class="status status-' + cat.status + '" style="margin-left:auto;">' + formatStatus(cat.status) + '</span>';
     html += '</div>';
 
+    if (cat.map) {
+      html += '<div class="category-map"><img src="' + cat.map + '" alt="Mapa del itinerario"></div>';
+    }
+
     cat.sections.forEach(function (sec) {
       html += '<div class="category-section">';
       html += '  <h3>' + sec.subtitle + '</h3>';

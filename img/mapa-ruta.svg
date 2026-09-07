@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" width="680" height="808" role="img" aria-label="Mapa del itinerario en Japón">
+  <title>Mapa del itinerario en Japón</title>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#122a4a"/>
+      <stop offset="100%" stop-color="#0a1a30"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMergeNode>
+    </filter>
+  </defs>
+
+  <!-- Fondo mar -->
+  <rect width="640" height="760" fill="url(#sea)"/>
+
+  <!-- Honshu (isla principal) -->
+  <g fill="#d8d0b0" stroke="#8a8055" stroke-width="2">
+    <path d="M260,60 C300,55 340,70 360,90 C385,112 400,120 425,110
+             C450,100 470,118 472,140 C474,162 460,175 452,192
+             C444,208 448,226 462,238 C476,250 478,270 468,286
+             C458,302 455,318 464,332 C473,346 484,356 492,370
+             C500,384 496,404 482,414 C468,424 460,440 456,456
+             C452,472 440,482 426,486 C412,490 400,504 398,520
+             C396,536 388,548 374,554 C360,560 346,556 334,548
+             C322,540 312,546 304,556 C296,566 282,570 272,562
+             C262,554 264,540 258,528 C252,516 240,512 230,518
+             C220,524 210,518 206,506 C202,494 208,482 202,470
+             C196,458 186,452 178,444 C170,436 174,424 182,418
+             C190,412 194,400 192,388 C190,376 182,368 176,358
+             C170,348 172,336 182,330 C192,324 200,314 202,302
+             C204,290 198,278 192,268 C186,258 186,246 192,236
+             C198,226 200,212 196,200 C192,188 196,176 208,172
+             C220,168 226,158 230,146 C234,134 244,126 256,122
+             C268,118 266,104 262,94 C258,84 258,70 260,60 Z"/>
+  </g>
+
+  <!-- Shikoku (isla sureste) -->
+  <g fill="#d0c8a8" stroke="#8a8055" stroke-width="2">
+    <path d="M330,470 C360,468 386,486 390,508 C394,530 378,548 356,550
+             C334,552 320,534 322,512 C324,490 322,472 330,470 Z"/>
+  </g>
+
+  <!-- Kyushu (isla suroeste) -->
+  <g fill="#ccc4a2" stroke="#8a8055" stroke-width="2">
+    <path d="M360,470 C398,490 440,540 438,580 C436,620 402,640 372,632
+             C342,624 322,594 322,562 C322,530 332,504 360,470 Z"/>
+  </g>
+
+  <!-- Hokkaido (isla norte, pequeña indicación arriba) -->
+  <g fill="#c8c09c" stroke="#8a8055" stroke-width="2">
+    <path d="M120,20 C150,16 176,36 178,60 C180,84 158,104 132,100
+             C106,96 96,74 102,52 C108,30 108,24 120,20 Z"/>
+  </g>
+
+  <!-- Ruta del itinerario (línea) -->
+  <path d="M262,118 L318,210 L196,352 L288,556"
+        fill="none" stroke="#ff7a45" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"
+        stroke-dasharray="10 8" filter="url(#glow)"/>
+
+  <!-- MARCAS DE CIUDADES -->
+  <!-- Tokio -->
+  <g>
+    <circle cx="262" cy="118" r="12" fill="#ff4d4d" stroke="#ffd9d9" stroke-width="3" filter="url(#glow)"/>
+    <text x="262" y="88" text-anchor="middle" fill="#fff" font-size="15" font-weight="bold">TOKIO</text>
+    <text x="262" y="148" text-anchor="middle" fill="#ffb3b3" font-size="12">Días 1–5</text>
+  </g>
+
+  <!-- Kawaguchiko -->
+  <g>
+    <circle cx="318" cy="210" r="9" fill="#ffa64d" stroke="#ffe0b3" stroke-width="2" filter="url(#glow)"/>
+    <text x="360" y="206" fill="#ffd9b3" font-size="12" font-weight="bold">Kawaguchiko</text>
+    <text x="360" y="222" fill="#ffd9b3" font-size="11">Día 6</text>
+  </g>
+
+  <!-- Kioto -->
+  <g>
+    <circle cx="196" cy="352" r="11" fill="#4dd2ff" stroke="#c2eeff" stroke-width="2.5" filter="url(#glow)"/>
+    <text x="196" y="326" text-anchor="middle" fill="#c2eeff" font-size="13" font-weight="bold">KIOTO</text>
+    <text x="196" y="386" text-anchor="middle" fill="#c2eeff" font-size="12">Días 7–11</text>
+  </g>
+
+  <!-- Osaka -->
+  <g>
+    <circle cx="288" cy="556" r="11" fill="#ff66cc" stroke="#ffcceb" stroke-width="2.5" filter="url(#glow)"/>
+    <text x="288" y="530" text-anchor="middle" fill="#ffcceb" font-size="13" font-weight="bold">OSAKA</text>
+    <text x="288" y="590" text-anchor="middle" fill="#ffcceb" font-size="12">Días 12–13</text>
+  </g>
+
+  <!-- Leyenda ruta -->
+  <g transform="translate(430,660)">
+    <text x="0" y="0" fill="#aaa" font-size="11">— Ruta propuesta (Shinkansen / bus)</text>
+  </g>
+</svg>

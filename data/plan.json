@@ -14,6 +14,7 @@
       "title": "Itinerario",
       "icon": "📍",
       "status": "pendiente",
+      "map": "img/mapa-ruta.svg",
       "sections": [
         {
           "subtitle": "Ruta general",
