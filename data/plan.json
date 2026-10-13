@@ -174,8 +174,8 @@
         {
           "subtitle": "Días y horarios (verano 2027)",
           "items": [
-            "El 15-may-2027 es sábado y cae en temporada de verano (empieza el 28-mar-2027)",
-            "Patrón esperable del directo de Iberia: salida a mediodía (~12:30) y llegada de mañana (~09:30+1), en torno a lun/jue/sáb (posible 4º día)",
+            "El 17-may-2027 es lunes, fecha válida del directo de Iberia; el 15-may-2027 es sábado (alternativa de fin de semana). Ambas caen en temporada de verano (empieza el 28-mar-2027)",
+            "Patrón de verano según comunicado de Iberia: IB281 Madrid→Tokio lun/mié/jue/dom (salida 12:30 → llegada 09:30+1); IB282 Tokio→Madrid lun/mar/jue/vie (11:10 → 19:45)",
             "Iberia ha cambiado días y horarios año tras año → confirmar el día exacto en el motor de reserva de Iberia con la fecha concreta al comprar"
           ]
         },
@@ -187,6 +187,36 @@
             "Precios de referencia (datos VI/2026): China Eastern 571–701 €, Etihad 708 €, Air France 755–787 €, Turkish 793 €, JAL 842 €, Iberia 858 €",
             "Buscar en modo multidestino en Skyscanner / Google Flights",
             "Reservar cuanto antes: los buenos precios para mayo 2027 aparecen a partir de septiembre de 2026"
+          ]
+        },
+        {
+          "subtitle": "Comparativa de fechas (mayo 2027) — 13 noches",
+          "items": [
+            "A — Lunes 17-may (base): Iberia directo MAD→NRT 12:30→09:30+1 · llega mar 18 · vuelta lun 31-may desde KIX · no se pierde el día de llegada",
+            "B — Sábado 15-may: Iberia directo · llega dom 16 · vuelta sáb 29-may · fin de semana (suele ser más caro)",
+            "C — Jueves 20-may: Iberia directo · llega vie 21 · vuelta jue 3-jun · empuja la salida 3 días",
+            "D — Martes 18-may (con 1 escala: Qatar/Turkish/Emirates) · llega mié 19 · vuelta mar 1-jun · los martes suelen ser los días más baratos",
+            "E — Miércoles 19-may: Iberia (4ª frecuencia) · llega jue 20 · vuelta mié 2-jun · el miércoles es el día más barato de la semana"
+          ]
+        },
+        {
+          "subtitle": "Comparativa de rutas",
+          "items": [
+            "Ida directa: Iberia IB281, A350-900 (~14 h), lun/mié/jue/dom en verano",
+            "Ida con escala (~diaria): Qatar (Doha), Turkish (Estambul), Emirates (Dubái), Air France, KLM, Finnair",
+            "Vuelta KIX→MAD (no hay directo): Qatar ~17/sem, Turkish ~17/sem, Emirates ~18/sem, Etihad, Air France, KLM, Finnair",
+            "Truco de control: a veces el ida y vuelta cerrado MAD↔Tokio es más barato que el open-jaw; si KIX sube mucho, comparar salida desde NRT/HND"
+          ]
+        },
+        {
+          "subtitle": "Precio orientativo open-jaw (por persona)",
+          "items": [
+            "MAD→NRT ida directa (Iberia): ~635–830 €",
+            "KIX→MAD vuelta (con escala): ~500–900 €",
+            "Total open-jaw: ~700–1.100 €/pers · objetivo: cerrar por debajo de ~800 €/pers",
+            "Ventana de compra óptima: nov-2026 a feb-2027 (Black Friday y rebajas de enero)",
+            "Buscar en modo multidestino (Google Flights / Skyscanner / Kiwi) y activar avisos de precio",
+            "Hoja de trabajo completa: comparativa-vuelos.md (documento de sesión)"
           ]
         }
       ]
