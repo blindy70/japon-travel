@@ -6,83 +6,187 @@
     "origin": "Madrid, España",
     "budget_per_person": "2.800 € (tope)",
     "status": "pendiente",
-    "last_updated": "2026-09-07"
+    "last_updated": "2026-10-13"
   },
   "categories": [
     {
       "id": "itinerario",
       "title": "Itinerario",
       "icon": "📍",
-      "status": "pendiente",
+      "status": "en-curso",
       "map": "img/mapa-ruta.svg",
       "sections": [
         {
           "subtitle": "Ruta general",
-          "content": "Tokio → Kawaguchiko → Kioto → Osaka → Tokio"
+          "content": "Tokio (4 noches) → Hakone (2) → Kioto (5) → Osaka (2) — 13 noches en total. Vuelo multidestino (open-jaw): entrada por Tokio (Narita) y salida desde Osaka (KIX), sin retroceder a Tokio."
         },
         {
-          "subtitle": "Día 1–5 — Tokio (5 noches)",
+          "subtitle": "Día 1 — Llegada a Tokio",
           "items": [
-            "Llegada + jet lag",
-            "Senso-ji, Meiji-jingu, Tsukiji (desayuno)",
-            "Shibuya / Shinjuku",
-            "Day trip a Kamakura: Gran Buda, templos, costa"
+            "Vuelo Madrid → Narita con llegada por la mañana (el directo de Iberia en verano sale ~12:30 y llega ~09:30+1)",
+            "Traslado al hotel (Skyliner/N'EX, ~1 h) y consigna del equipaje",
+            "Tarde suave: Asakusa (Senso-ji) y orilla del Sumida, o Ueno",
+            "Noche 1 en Tokio"
           ]
         },
         {
-          "subtitle": "Día 6 — Kawaguchiko (1 noche)",
+          "subtitle": "Día 2 — Tokio (centro)",
           "items": [
-            "Bus directo Shinjuku → Kawaguchiko (~2 h)",
-            "Lagos de los Cinco Fuji",
-            "Pagoda Chureito",
-            "Noche de ryokan con onsen"
+            "Desayuno en Tsukiji (mercado exterior)",
+            "Ginza",
+            "teamLab (Planets o Borderless) y Odaiba",
+            "Noche 2 en Tokio"
           ]
         },
         {
-          "subtitle": "Día 7 — Traslado a Kioto",
+          "subtitle": "Día 3 — Tokio (oeste)",
           "items": [
-            "Mañana: vistas del Fuji",
-            "Bus Kawaguchiko → Mishima (~1,5 h)",
-            "Shinkansen Mishima → Kioto (~2 h)",
-            "Tarde libre en Kioto"
+            "Santuario Meiji-jingu y Parque Yoyogi",
+            "Harajuku / Omotesando",
+            "Shibuya (cruce) y Shinjuku (miradores)",
+            "Noche 3 en Tokio"
           ]
         },
         {
-          "subtitle": "Día 8–12 — Kioto (5 noches: 7–11)",
+          "subtitle": "Día 4 — Tokio (day trip)",
           "items": [
-            "Fushimi Inari",
+            "Excursión a Kamakura: Gran Buda, templos y costa (alternativa: día completo en Tokio)",
+            "Noche 4 en Tokio"
+          ]
+        },
+        {
+          "subtitle": "Día 5 — Tokio → Hakone",
+          "items": [
+            "Odakyu Romancecar Shinjuku → Hakone-Yumoto (~85 min) o Shinkansen a Odawara (~35 min) + Hakone Tozan",
+            "Tarde: paseo por Hakone-Yumoto y primer baño de onsen",
+            "Noche 5 en Hakone (ryokan con onsen)"
+          ]
+        },
+        {
+          "subtitle": "Día 6 — Hakone (loop completo)",
+          "items": [
+            "Hakone Tozan hasta Gora y funicular",
+            "Teleférico a Owakudani (vistas del Fuji si el tiempo acompaña)",
+            "Descenso al lago Ashi en barco pirata y santuario Hakone (torii en el lago)",
+            "Onsen por la noche",
+            "Noche 6 en Hakone"
+          ]
+        },
+        {
+          "subtitle": "Día 7 — Hakone → Kioto",
+          "items": [
+            "Odawara → Kioto en Shinkansen (~2 h)",
+            "Tarde libre en Kioto: Gion y Nishiki Market",
+            "Noche 7 en Kioto"
+          ]
+        },
+        {
+          "subtitle": "Día 8 — Kioto (este)",
+          "items": [
+            "Fushimi Inari muy temprano (menos gente)",
             "Kiyomizu-dera",
-            "Gion (barrio histórico)",
-            "Arashiyama: bosque de bambú + monte de monos",
-            "Kinkaku-ji (pabellón dorado) y Ginkaku-ji",
-            "Day trip a Nara: Todaiji, ciervos, Kasuga-taisha",
-            "Nishiki Market (gastronomía)"
+            "Barrio de Higashiyama y Gion",
+            "Noche 8 en Kioto"
           ]
         },
         {
-          "subtitle": "Día 12 — Traslado a Osaka (2 noches: 12–13)",
+          "subtitle": "Día 9 — Kioto (oeste)",
+          "items": [
+            "Arashiyama: bosque de bambú y monte de monos",
+            "Kinkaku-ji (pabellón dorado)",
+            "Castillo Nijo",
+            "Noche 9 en Kioto"
+          ]
+        },
+        {
+          "subtitle": "Día 10 — Nara (day trip)",
+          "items": [
+            "Todaiji (Gran Buda)",
+            "Ciervos del parque de Nara",
+            "Santuario Kasuga-taisha",
+            "Noche 10 en Kioto"
+          ]
+        },
+        {
+          "subtitle": "Día 11 — Kioto",
+          "items": [
+            "Ginkaku-ji (pabellón de plata) y Camino de la Filosofía",
+            "Nishiki Market y compras",
+            "Noche 11 en Kioto"
+          ]
+        },
+        {
+          "subtitle": "Día 12 — Kioto → Osaka",
           "items": [
             "Shinkansen Kioto → Osaka (~15 min)",
-            "Castillo de Osaka",
-            "Mercado Kuromon",
-            "Shinsekai (izakayas)",
-            "Dotonbori por la noche"
+            "Castillo de Osaka y mercado Kuromon",
+            "Shinsekai (izakayas) y Dotonbori de noche",
+            "Noche 12 en Osaka"
           ]
         },
         {
           "subtitle": "Día 13 — Osaka",
           "items": [
-            "Mañana libre en Osaka: Umeda Sky Building u opción local",
-            "Shinkansen Osaka → Tokio por la tarde (~2 h 30, Nozomi)",
-            "Última tarde en Tokio"
+            "Mañana libre: Umeda Sky Building, acuario Kaiyukan o excursión a Kobe",
+            "Tarde/noche en Dotonbori",
+            "Noche 13 en Osaka"
           ]
         },
         {
           "subtitle": "Día 14 — Vuelo de regreso",
           "items": [
-            "Shinkansen Osaka → Tokio (~2 h 30, Nozomi)",
-            "Última tarde en Tokio",
-            "Vuelo nocturno a Madrid"
+            "Traslado a KIX (~50 min desde Namba en el Nankai Rapi:t)",
+            "Vuelo Osaka (KIX) → Madrid",
+            "Si la salida es muy temprana, valorar dormir la última noche cerca de Namba/KIX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vuelos",
+      "title": "Vuelos",
+      "icon": "✈️",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Esquema: vuelo multidestino (open-jaw)",
+          "content": "Ida: Madrid → Tokio (Narita/NRT). Vuelta: Osaka (KIX) → Madrid. Así se evita el retroceso a Tokio y no se paga un Shinkansen de vuelta. Buscar siempre en modo multidestino (varias ciudades / multicity), no como ida y vuelta al mismo aeropuerto."
+        },
+        {
+          "subtitle": "Ida — Madrid → Tokio (NRT)",
+          "items": [
+            "Único directo: Iberia IB281, Airbus A350-900 (~14 h)",
+            "3–4 frecuencias por semana (NO es diario): días y horas cambian por temporada",
+            "Temporada de VERANO (mar–oct): sale ~12:30 y llega a Narita ~09:30+1 → día de llegada aprovechable",
+            "Alternativas con escala y prácticamente diarias: Qatar (vía Doha), Emirates (vía Dubái), Turkish (vía Estambul), Air France, KLM, Finnair, China Eastern",
+            "Narita está a ~1 h del centro (N'EX / Skyliner)"
+          ]
+        },
+        {
+          "subtitle": "Vuelta — Osaka (KIX) → Madrid",
+          "items": [
+            "No existe vuelo directo desde KIX a Madrid",
+            "Con conexión es prácticamente diario: Turkish ~17/sem, Emirates ~18/sem, Qatar ~17/sem, Etihad, Air France, KLM, Cathay (vía Hong Kong)",
+            "Recomendado: combinar con el directo de Iberia cerrando la vuelta con un partner oneworld (Qatar vía Doha o Cathay vía Hong Kong)",
+            "KIX está a ~50 min de Namba (Nankai Rapi:t)"
+          ]
+        },
+        {
+          "subtitle": "Días y horarios (verano 2027)",
+          "items": [
+            "El 15-may-2027 es sábado y cae en temporada de verano (empieza el 28-mar-2027)",
+            "Patrón esperable del directo de Iberia: salida a mediodía (~12:30) y llegada de mañana (~09:30+1), en torno a lun/jue/sáb (posible 4º día)",
+            "Iberia ha cambiado días y horarios año tras año → confirmar el día exacto en el motor de reserva de Iberia con la fecha concreta al comprar"
+          ]
+        },
+        {
+          "subtitle": "Recomendaciones para la compra",
+          "items": [
+            "Ida con llegada por la mañana (no se pierde el día 1)",
+            "Vuelta con salida tardía desde KIX",
+            "Precios de referencia (datos VI/2026): China Eastern 571–701 €, Etihad 708 €, Air France 755–787 €, Turkish 793 €, JAL 842 €, Iberia 858 €",
+            "Buscar en modo multidestino en Skyscanner / Google Flights",
+            "Reservar cuanto antes: los buenos precios para mayo 2027 aparecen a partir de septiembre de 2026"
           ]
         }
       ]
@@ -94,51 +198,42 @@
       "status": "pendiente",
       "sections": [
         {
-          "subtitle": "Vuelos Madrid ↔ Tokio",
-          "items": [
-            "Precio habitual: 570–930 €",
-            "Vuelo directo más rápido: ~14 h 25 min (Haneda o Narita)",
-            "China Eastern 571–701 € (1 escala)",
-            "Air France 755–787 €",
-            "Turkish Airlines 793 €",
-            "JAL 842 € / Iberia 858 €",
-            "Etihad 708 €"
-          ]
+          "subtitle": "Vuelos",
+          "content": "Ver la sección Vuelos: vuelo multidestino Madrid → Tokio (NRT) y Osaka (KIX) → Madrid."
         },
         {
           "subtitle": "JR Pass — NO recomendado",
-          "content": "Billetes sueltos salen más baratos para este bucle. Descuentos EX Hayatoku 7/21/Wide por SmartEX."
+          "content": "Con este recorrido (open-jaw, sin volver a Tokio) los billetes sueltos de Shinkansen salen mucho más baratos que cualquier JR Pass. Descuentos EX Hayatoku 7/21/Wide comprando por SmartEX."
         },
         {
           "subtitle": "Shinkansen (billetes sueltos)",
           "items": [
-            "Tokio → Kioto: ~14.000 ¥ (Nozomi reservado) — 2 h 15",
-            "Kioto → Osaka: ~6.000 ¥ — ~15 min",
-            "Osaka → Tokio: ~14.720 ¥ (Nozomi reservado) — 2 h 30",
-            "Mishima → Kioto: ~13.000 ¥ — ~2 h",
-            "Total estimado: ~¥47.000–48.000 (~300–310 €/pers)"
+            "Tokio → Odawara: ~3.700 ¥ (Shinkansen, ~35 min)",
+            "Odawara → Kioto: ~10.700–11.000 ¥ (Hikari, ~2 h)",
+            "Kioto → Shin-Osaka: ~1.450–3.100 ¥ (~15 min)",
+            "Total estimado intercity: ~¥16.000–18.000 (~100–115 €/pers)"
           ]
         },
         {
-          "subtitle": "Tokio → Kawaguchiko",
+          "subtitle": "Tokio → Hakone",
           "items": [
-            "Bus de autopista Shinjuku: ~2.200 ¥ (~2 h)",
-            "Alternativa: Fujikyu Railway"
+            "Odakyu Romancecar Shinjuku → Hakone-Yumoto: ~2.470 ¥ (~85 min)",
+            "Alternativa: Shinkansen Tokio → Odawara (~35 min) + Hakone Tozan",
+            "Hakone Free Pass 2 días: ~5.000–6.100 ¥ (cubre tren de montaña, funicular, teleférico y barco del lago Ashi)"
           ]
         },
         {
-          "subtitle": "Kawaguchiko → Kioto",
+          "subtitle": "Hakone → Kioto",
           "items": [
-            "Bus a Mishima: 2.500 ¥ (~1 h 30)",
-            "Shinkansen Mishima → Kioto: ~2 h",
-            "Alternativa: night bus directo (9 h, 8.200–10.600 ¥)"
+            "Hakone Tozan hasta Odawara",
+            "Shinkansen Odawara → Kioto (~2 h, Hikari)"
           ]
         },
         {
           "subtitle": "Transporte urbano",
           "items": [
             "Suica / Pasmo recargable (~50 €/pers)",
-            "Bus Kawaguchiko–Saiko–Motosuko: 1 día 1.500 ¥ / 2 días 2.000 ¥"
+            "Kioto: bus y metro; Osaka: metro (Namba/Umeda)"
           ]
         }
       ]
@@ -151,23 +246,23 @@
       "sections": [
         {
           "subtitle": "Presupuesto general",
-          "content": "550–600 €/pers para 13 noches. Business hotels triples ~18.000–22.000 ¥/noche repartido (~40–45 €/pers/noche)."
+          "content": "550–650 €/pers para 13 noches (incluye 2 noches de ryokan en Hakone, más caras). Business hotels triples ~18.000–22.000 ¥/noche repartido (~40–45 €/pers/noche)."
         },
         {
-          "subtitle": "Tokio (5 noches)",
+          "subtitle": "Tokio (4 noches)",
           "items": [
             "Business hotel triple (APA, Toyoko Inn, etc.)",
-            "Zona recomendada: Shinjuku o Shibuya",
+            "Zona recomendada: Shinjuku o Shibuya (también Ueno/Asakusa)",
             "Reservar con cancelación gratuita"
           ]
         },
         {
-          "subtitle": "Kawaguchiko (1 noche)",
+          "subtitle": "Hakone (2 noches)",
           "items": [
-            "Ryokan con onsen",
-            "~10.000–12.000 ¥/pers",
-            "Reservar con cancelación (riesgo climático)",
-            "Buscar apps de previsión de visibilidad del Fuji"
+            "Ryokan con onsen (Gora, Sengokuhara o zona del lago Ashi)",
+            "Media pensión (cena kaiseki + desayuno) muy recomendable",
+            "~15.000–20.000 ¥/pers/noche con cena",
+            "Reservar con cancelación (riesgo climático / visibilidad del Fuji)"
           ]
         },
         {
@@ -181,7 +276,7 @@
           "subtitle": "Osaka (2 noches)",
           "items": [
             "Business hotel triple",
-            "Zona: Namba o Umeda"
+            "Zona: Namba (mejor conexión con KIX) o Umeda"
           ]
         }
       ]
@@ -194,15 +289,15 @@
       "sections": [
         {
           "subtitle": "Total estimado por persona",
-          "content": "~2.050–2.380 € (margen de ~400–700 € bajo el tope de 2.800 €)."
+          "content": "~2.050–2.400 € (margen de ~400–750 € bajo el tope de 2.800 €)."
         },
         {
           "subtitle": "Desglose",
           "items": [
-            "Vuelos I/V Madrid–Tokio: 750–900 €",
-            "Alojamiento 13 noches: 550–600 €",
+            "Vuelos multidestino Madrid → Tokio / Osaka → Madrid: 750–900 €",
+            "Alojamiento 13 noches (2 de ryokan): 550–650 €",
             "Comida (14 días): 300–350 €",
-            "Shinkansen bucle completo: 300–320 €",
+            "Shinkansen y transporte intercity: 140–160 €",
             "Transporte urbano (Suica/Pasmo): ~50 €",
             "eSIM / pocket WiFi: 15–25 €",
             "Entradas (teamLab, templos...): 60–90 €",
@@ -224,19 +319,22 @@
         {
           "subtitle": "Tokio",
           "items": [
-            "Senso-ji (templo)",
+            "Senso-ji (templo) y Asakusa",
             "Meiji-jingu (santuario)",
             "Tsukiji (desayuno)",
+            "Ginza y teamLab / Odaiba",
             "Shibuya / Shinjuku",
             "Day trip Kamakura: Gran Buda, templos, costa"
           ]
         },
         {
-          "subtitle": "Kawaguchiko",
+          "subtitle": "Hakone",
           "items": [
-            "Lagos de los Cinco Fuji",
-            "Pagoda Chureito",
-            "Onsen en ryokan"
+            "Owakudani (valle volcánico) y teleférico",
+            "Lago Ashi en barco pirata",
+            "Santuario Hakone (torii en el lago)",
+            "Onsen en el ryokan",
+            "Vistas del Monte Fuji (si el tiempo acompaña)"
           ]
         },
         {
@@ -244,9 +342,10 @@
           "items": [
             "Fushimi Inari",
             "Kiyomizu-dera",
-            "Gion (barrio)",
+            "Gion (barrio histórico)",
             "Arashiyama: bosque de bambú + monte de monos",
             "Kinkaku-ji (pabellón dorado) y Ginkaku-ji",
+            "Castillo Nijo",
             "Nishiki Market"
           ]
         },
@@ -264,14 +363,16 @@
             "Castillo de Osaka",
             "Mercado Kuromon",
             "Shinsekai",
-            "Dotonbori"
+            "Dotonbori",
+            "Umeda Sky Building o acuario Kaiyukan"
           ]
         },
         {
-          "subtitle": "Entradas / costs estimados",
+          "subtitle": "Entradas / costes estimados",
           "items": [
             "teamLab: ~3.200 ¥",
-            "Templos: ~400–600 ¥ cada uno"
+            "Templos: ~400–600 ¥ cada uno",
+            "Hakone Free Pass 2 días: ~5.000–6.100 ¥"
           ]
         }
       ]
@@ -292,7 +393,8 @@
             "Desayunos en konbini (7-Eleven, FamilyMart, Lawson) — baratos y buenos",
             "Set lunch (ランチ) en restaurantes: mejor relación calidad-precio",
             "Izakayas por la noche: comida variada y ambiente",
-            "Reservar restaurantes populares con antelación"
+            "Reservar restaurantes populares con antelación",
+            "En Hakone, cenar en el ryokan (kaiseki) es parte de la experiencia"
           ]
         },
         {
@@ -301,7 +403,8 @@
             "Tsukiji (Tokio): desayuno / mariscos",
             "Dotonbori (Osaka): calle de la comida",
             "Mercado Kuromon (Osaka): mariscos frescos",
-            "Shinsekai (Osaka): kushikatsu"
+            "Shinsekai (Osaka): kushikatsu",
+            "Nishiki Market (Kioto): puestos y productos locales"
           ]
         }
       ]
@@ -335,9 +438,9 @@
         {
           "subtitle": "Checklist de reservas (orden de prioridad)",
           "items": [
-            "1. Vuelos Madrid ↔ Tokio — YA (sept 2026 hay buenos precios para mayo 2027)",
-            "2. Ryokan de Kawaguchiko — 2–3 meses antes (con cancelación)",
-            "3. Bus Shinjuku → Kawaguchiko y Shinkansen SmartEX — una vez fijadas fechas",
+            "1. Vuelos multidestino Madrid → Tokio / Osaka → Madrid — YA (sept 2026 hay buenos precios para mayo 2027)",
+            "2. Ryokan de Hakone — 2–3 meses antes (con cancelación)",
+            "3. Shinkansen SmartEX (Tokio→Odawara, Odawara→Kioto, Kioto→Osaka) — una vez fijadas fechas",
             "4. Hoteles centrales con cancelación gratuita (Booking/Agoda)",
             "5. teamLab (anticipado); resto de entradas en la misma fecha",
             "6. Seguro de viaje y pasaporte en regla"
@@ -346,10 +449,9 @@
         {
           "subtitle": "Pendiente",
           "items": [
-            "Ajustar itinerario si el grupo quiere más/menos días en alguna ciudad",
-            "Fijar días concretos de mayo 2027",
-            "Buscar vuelos en Skyscanner / Google Flights",
-            "Definir hoteles concretos",
+            "Reservar los vuelos multidestino con llegada matinal a Tokio y salida tardía desde KIX",
+            "Fijar los días concretos de mayo 2027 según la fecha del vuelo",
+            "Definir hoteles concretos y el ryokan de Hakone",
             "Calcular desglose editable del presupuesto"
           ]
         }
@@ -402,7 +504,7 @@
             "Google Maps (navegación)",
             "Google Translate (cámara para menús)",
             "SmartEX (compra billetes Shinkansen)",
-            "Skyscanner / Google Flights (buscar vuelos)",
+            "Skyscanner / Google Flights (buscar vuelos en modo multidestino)",
             "Apps de previsión de visibilidad del Fuji"
           ]
         },
@@ -417,7 +519,7 @@
         {
           "subtitle": "Riesgos",
           "items": [
-            "El Fuji se oculta a veces con nubes",
+            "El Fuji se oculta a veces con nubes (también en Hakone)",
             "Sanidad privada cara sin seguro"
           ]
         }

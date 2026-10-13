@@ -86,6 +86,12 @@ header p {
   border: 1px solid #4ade80;
 }
 
+.status-en-curso {
+  background: #1a2a3a;
+  color: #60a5fa;
+  border: 1px solid #60a5fa;
+}
+
 .status-pendiente {
   background: #3a3a1a;
   color: #facc15;

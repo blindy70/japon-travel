@@ -37,6 +37,7 @@
 
   function formatStatus(s) {
     if (s === 'confirmado') return '✅ Confirmado';
+    if (s === 'en-curso') return '🚧 En curso';
     if (s === 'pendiente') return '⏳ Pendiente';
     if (s === 'descartado') return '❌ Descartado';
     return s;
