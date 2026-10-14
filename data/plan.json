@@ -360,6 +360,18 @@
             "El open-jaw compensa pese a costar algo más: ahorra el Shinkansen Osaka→Tokio (~14.700 ¥ ≈ 90 €/pers) y medio día de viaje",
             "Datos de referencia por ruta/temporada (momondo, Expedia, Booking, Google Flights, FlightsFrom) · NO son tarifas exactas de fecha"
           ]
+        },
+        {
+          "subtitle": "Precios reales Google Flights con fecha exacta (15/10/2026) — solo ida",
+          "items": [
+            "Ida MAD→NRT (solo ida, €/pers): lun 17-may desde 670 · sáb 15-may desde 670 · jue 20-may desde 520 · mar 18-may desde 520 · mié 19-may desde 628",
+            "Vuelta KIX→MAD (solo ida, €/pers): lun 31-may desde 617 (Cathay) · resto de días 617–621; sin vuelo directo",
+            "El directo de Iberia (ida) sale a 1.197 € solo ida = lo más caro; lideran China Southern (520 €), Cathay (628 €) y Qatar/Iberia (691 €)",
+            "Open-jaw en un solo billete: no se pudo leer la tarifa combinada (Skyscanner y Expedia bloquean el multidestino; Kiwi lo interpreta como ida-vuelta). Referencia: ida-vuelta cerrado MAD↔Tokio ~798–819 €",
+            "Estimación open-jaw: ~700–900 €/pers (los one-way van inflados). Objetivo ≤ 800 €/pers: vigente",
+            "Los días mar/jue salen más baratos que el lunes base → valorar la opción C/D (con 1 escala) si se busca ≤ 800 €",
+            "Google indica: 'actualmente los precios son normales'"
+          ]
         }
       ]
     },
