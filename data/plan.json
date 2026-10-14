@@ -6,14 +6,14 @@
     "origin": "Madrid, España",
     "budget_per_person": "2.800 € (tope)",
     "status": "pendiente",
-    "last_updated": "2026-10-13"
+    "last_updated": "2026-10-14"
   },
   "categories": [
     {
       "id": "itinerario",
       "title": "Itinerario",
       "icon": "📍",
-      "status": "en-curso",
+      "status": "confirmado",
       "map": "img/mapa-ruta.svg",
       "sections": [
         {
@@ -138,6 +138,136 @@
             "Traslado a KIX (~50 min desde Namba en el Nankai Rapi:t)",
             "Vuelo Osaka (KIX) → Madrid",
             "Si la salida es muy temprana, valorar dormir la última noche cerca de Namba/KIX"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tokio",
+      "title": "Tokio",
+      "icon": "🗼",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Cuándo (días 1–4)",
+          "content": "4 noches (días 1–4). Llegada por la mañana del día 1 desde Madrid (vuelo directo de Iberia). Base recomendada: Shinjuku, Shibuya, Ueno o Asakusa."
+        },
+        {
+          "subtitle": "Sitios y actividades",
+          "items": [
+            "Asakusa y Senso-ji (templo + barrio tradicional, orilla del Sumida) — día 1",
+            "Tsukiji (mercado exterior) para desayunar — día 2",
+            "Ginza (compras / escaparates) — día 2",
+            "teamLab (Planets o Borderless) y Odaiba — día 2",
+            "Santuario Meiji-jingu y Parque Yoyogi — día 3",
+            "Harajuku / Omotesando — día 3",
+            "Shibuya (cruce) y Shinjuku (miradores) — día 3",
+            "Miradores: Shibuya Sky, Tokyo Metropolitan Government Building (gratis) o Skytree",
+            "Day trip a Kamakura: Gran Buda, templos y costa — día 4 (alternativa: día completo en Tokio)",
+            "Ueno (parque y museos) — alternativa cercana a Asakusa"
+          ]
+        },
+        {
+          "subtitle": "Por decidir",
+          "items": [
+            "Barrio/hotel base en Tokio",
+            "teamLab Planets vs. Borderless (reservar con antelación)",
+            "Si el día 4 se hace Kamakura o se queda en Tokio"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hakone",
+      "title": "Hakone",
+      "icon": "♨️",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Cuándo (días 5–6)",
+          "content": "2 noches (días 5–6). Se llega desde Tokio (Odakyu Romancecar desde Shinjuku o Shinkansen a Odawara) y se sale hacia Kioto por Odawara. Alojamiento: ryokan con onsen y media pensión."
+        },
+        {
+          "subtitle": "Sitios y actividades",
+          "items": [
+            "Hakone-Yumoto (paseo y primer onsen) — tarde del día 5",
+            "Hakone Tozan hasta Gora + funicular (loop) — día 6",
+            "Teleférico a Owakudani (valle volcánico; vistas del Fuji si el tiempo acompaña; huevos negros)",
+            "Lago Ashi en barco pirata",
+            "Santuario Hakone (torii dentro del lago) y antiguo puesto de control",
+            "Museo al aire libre de Hakone (esculturas) — opción",
+            "Onsen en el ryokan + cena kaiseki"
+          ]
+        },
+        {
+          "subtitle": "Por decidir",
+          "items": [
+            "Ryokan concreto (Gora / Sengokuhara / lago Ashi) con cancelación gratuita",
+            "Hakone Free Pass de 2 días (cubre tren, funicular, teleférico y barco)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kioto",
+      "title": "Kioto",
+      "icon": "⛩️",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Cuándo (días 7–11)",
+          "content": "5 noches (días 7–11). Se llega desde Odawara en Shinkansen (~2 h) y se sale a Osaka en Shinkansen (~15 min). Incluye una excursión de día completo a Nara."
+        },
+        {
+          "subtitle": "Sitios y actividades",
+          "items": [
+            "Gion (barrio histórico) y Nishiki Market — tarde del día 7",
+            "Fushimi Inari (muy temprano, menos gente) y Kiyomizu-dera — día 8",
+            "Barrio de Higashiyama — día 8",
+            "Arashiyama: bosque de bambú + monte de monos — día 9",
+            "Kinkaku-ji (pabellón dorado) y Castillo Nijo — día 9",
+            "Day trip a Nara: Todaiji (Gran Buda), ciervos y Kasuga-taisha — día 10",
+            "Ginkaku-ji (pabellón de plata) y Camino de la Filosofía — día 11",
+            "Uji (matcha) o Fushimi (sake) — opción"
+          ]
+        },
+        {
+          "subtitle": "Por decidir",
+          "items": [
+            "Reordenar los días por proximidad (el plan actual mezcla el este y el oeste de la ciudad)",
+            "Zona de hotel (estación de Kioto o Gion)",
+            "Horarios de cierre tempranos de algunos templos/pabellones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osaka",
+      "title": "Osaka",
+      "icon": "🏯",
+      "status": "pendiente",
+      "sections": [
+        {
+          "subtitle": "Cuándo (días 12–13)",
+          "content": "2 noches (días 12–13). Se llega desde Kioto en Shinkansen (~15 min). El día 14 se sale a Madrid desde KIX (~50 min desde Namba en el Nankai Rapi:t). Zona recomendada: Namba (mejor conexión con KIX) o Umeda."
+        },
+        {
+          "subtitle": "Sitios y actividades",
+          "items": [
+            "Castillo de Osaka (+ parque) — día 12",
+            "Mercado Kuromon (mariscos y puestos) — día 12",
+            "Shinsekai (izakayas, kushikatsu, Tsutenkaku) — día 12",
+            "Dotonbori de noche — días 12 y 13",
+            "Umeda Sky Building (mirador) — mañana del día 13",
+            "Acuario Kaiyukan — alternativa",
+            "Excursión a Kobe (opción)"
+          ]
+        },
+        {
+          "subtitle": "Por decidir",
+          "items": [
+            "Mañana libre del día 13: Umeda Sky, Kaiyukan o Kobe",
+            "Hora de salida del vuelo desde KIX (valorar dormir cerca de Namba/KIX la última noche si es muy temprana)"
           ]
         }
       ]
