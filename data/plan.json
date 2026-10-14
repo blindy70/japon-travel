@@ -336,7 +336,7 @@
             "Ida directa: Iberia IB281, A350-900 (~14 h), lun/mié/jue/dom en verano",
             "Ida con escala (~diaria): Qatar (Doha), Turkish (Estambul), Emirates (Dubái), Air France, KLM, Finnair",
             "Vuelta KIX→MAD (no hay directo): Qatar ~17/sem, Turkish ~17/sem, Emirates ~18/sem, Etihad, Air France, KLM, Finnair",
-            "Truco de control: a veces el ida y vuelta cerrado MAD↔Tokio es más barato que el open-jaw; si KIX sube mucho, comparar salida desde NRT/HND"
+            "Truco de control (solo precio): el ida y vuelta cerrado MAD↔Tokio a veces sale algo más barato, pero NO se usa → el plan es open-jaw (ahorra tiempo y el Shinkansen de vuelta)"
           ]
         },
         {
@@ -348,6 +348,17 @@
             "Ventana de compra óptima: oct-2026 a feb-2027 (largo radio a Asia: ~5–7 meses antes). El Black Friday no garantiza el mínimo; Travel Tuesday (princ. dic) suele ir mejor",
             "Buscar en modo multidestino (Google Flights / Skyscanner / Kiwi) y activar avisos de precio",
             "Hoja de trabajo completa: comparativa-vuelos.md (documento de sesión)"
+          ]
+        },
+        {
+          "subtitle": "Pasada de precios real (14/10/2026) — foco open-jaw",
+          "items": [
+            "Ida Madrid → Tokio (NRT): one-way desde ~385 € (1 escala); ida y vuelta cerrada desde ~$728 (China Eastern); Iberia directo (ida y vuelta) ~$1.055; típico MAD↔TYO $874–1.301",
+            "Vuelta Osaka (KIX) → Madrid: one-way desde ~495 € (1 escala); ida y vuelta cerrada desde ~$858 (Expedia) / predicho ~$659 (Booking); no hay directo",
+            "Estacionalidad MAD↔NRT (ida y vuelta): enero es el mes más barato (~$735); mayo ~$932; junio ~$945",
+            "Total open-jaw realista en mayo: ~850–1.100 €/pers. Objetivo ≤ ~800 €: comprar en la ventana barata (Black Friday / Travel Tuesday / rebajas de enero) o aceptar 1 escala (Qatar/Turkish/Emirates/China Eastern)",
+            "El open-jaw compensa pese a costar algo más: ahorra el Shinkansen Osaka→Tokio (~14.700 ¥ ≈ 90 €/pers) y medio día de viaje",
+            "Datos de referencia por ruta/temporada (momondo, Expedia, Booking, Google Flights, FlightsFrom) · NO son tarifas exactas de fecha"
           ]
         }
       ]
