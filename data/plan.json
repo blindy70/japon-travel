@@ -316,7 +316,8 @@
             "Vuelta con salida tardía desde KIX",
             "Precios de referencia (datos VI/2026): China Eastern 571–701 €, Etihad 708 €, Air France 755–787 €, Turkish 793 €, JAL 842 €, Iberia 858 €",
             "Buscar en modo multidestino en Skyscanner / Google Flights",
-            "Reservar cuanto antes: los buenos precios para mayo 2027 aparecen a partir de septiembre de 2026"
+            "El modo incógnito NO abarata: las aerolíneas no suben precios por tus cookies; lo que ayuda es el historial de precios de Google Flights y las alertas",
+            "Reservar en la ventana oct-2026–feb-2027 y comprar cuando baje del objetivo (~800 €/pers)"
           ]
         },
         {
@@ -344,7 +345,7 @@
             "MAD→NRT ida directa (Iberia): ~635–830 €",
             "KIX→MAD vuelta (con escala): ~500–900 €",
             "Total open-jaw: ~700–1.100 €/pers · objetivo: cerrar por debajo de ~800 €/pers",
-            "Ventana de compra óptima: nov-2026 a feb-2027 (Black Friday y rebajas de enero)",
+            "Ventana de compra óptima: oct-2026 a feb-2027 (largo radio a Asia: ~5–7 meses antes). El Black Friday no garantiza el mínimo; Travel Tuesday (princ. dic) suele ir mejor",
             "Buscar en modo multidestino (Google Flights / Skyscanner / Kiwi) y activar avisos de precio",
             "Hoja de trabajo completa: comparativa-vuelos.md (documento de sesión)"
           ]
@@ -467,72 +468,13 @@
         {
           "subtitle": "Gastos diarios estimados",
           "content": "Comida: ~2.500–4.000 ¥/día (16–26 €/día). Desayuno konbini + set lunch + izakaya."
-        }
-      ]
-    },
-    {
-      "id": "actividades",
-      "title": "Actividades",
-      "icon": "⛩️",
-      "status": "pendiente",
-      "sections": [
-        {
-          "subtitle": "Tokio",
-          "items": [
-            "Senso-ji (templo) y Asakusa",
-            "Meiji-jingu (santuario)",
-            "Tsukiji (desayuno)",
-            "Ginza y teamLab / Odaiba",
-            "Shibuya / Shinjuku",
-            "Day trip Kamakura: Gran Buda, templos, costa"
-          ]
         },
         {
-          "subtitle": "Hakone",
-          "items": [
-            "Owakudani (valle volcánico) y teleférico",
-            "Lago Ashi en barco pirata",
-            "Santuario Hakone (torii en el lago)",
-            "Onsen en el ryokan",
-            "Vistas del Monte Fuji (si el tiempo acompaña)"
-          ]
-        },
-        {
-          "subtitle": "Kioto",
-          "items": [
-            "Fushimi Inari",
-            "Kiyomizu-dera",
-            "Gion (barrio histórico)",
-            "Arashiyama: bosque de bambú + monte de monos",
-            "Kinkaku-ji (pabellón dorado) y Ginkaku-ji",
-            "Castillo Nijo",
-            "Nishiki Market"
-          ]
-        },
-        {
-          "subtitle": "Nara (day trip desde Kioto)",
-          "items": [
-            "Todaiji",
-            "Ciervos",
-            "Kasuga-taisha"
-          ]
-        },
-        {
-          "subtitle": "Osaka",
-          "items": [
-            "Castillo de Osaka",
-            "Mercado Kuromon",
-            "Shinsekai",
-            "Dotonbori",
-            "Umeda Sky Building o acuario Kaiyukan"
-          ]
-        },
-        {
-          "subtitle": "Entradas / costes estimados",
+          "subtitle": "Entradas (coste orientativo)",
           "items": [
             "teamLab: ~3.200 ¥",
             "Templos: ~400–600 ¥ cada uno",
-            "Hakone Free Pass 2 días: ~5.000–6.100 ¥"
+            "Hakone Free Pass 2 días: ~5.000–6.100 ¥ (ver Transporte)"
           ]
         }
       ]
