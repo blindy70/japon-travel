@@ -318,7 +318,7 @@
             "Buscar en modo multidestino en Skyscanner / Google Flights",
             "El modo incógnito NO abarata: las aerolíneas no suben precios por tus cookies; lo que ayuda es el historial de precios de Google Flights y las alertas",
             "Reservar en la ventana oct-2026–feb-2027 y comprar cuando baje del objetivo (~800 €/pers)",
-            "Recomendación 09/11/2026: la opción D (18-may→1-jun) ya está en 769–780 €/pers, bajo el objetivo → cerrar esta semana confirmando equipaje y 3 plazas; no esperar al Black Friday"
+            "Recomendación 09/11/2026: D1 (18-may→1-jun, ida 5 h 55) 782 €/pers, bajo el objetivo; D2 (ida 3 h 15) 844 €/pers. Ambas dan 13 noches → cerrar esta semana confirmando equipaje y 3 plazas; no esperar al Black Friday"
           ]
         },
         {
@@ -346,7 +346,7 @@
             "MAD→NRT ida directa (Iberia): ~635–830 €",
             "KIX→MAD vuelta (con escala): ~500–900 €",
             "Total open-jaw: ~700–1.100 €/pers · objetivo: cerrar por debajo de ~800 €/pers",
-            "Tarifa combinada real (09/11/2026): A 933 € · D 769–780 € · C 865 € por persona (13 noches)",
+            "Tarifa combinada real (09/11/2026): A 933 € · D1 782 € / D2 844 € · C12 855 € (12 noches) · C13a 800 € (15 h 40) · C13b 941 € por persona",
             "Ventana de compra óptima: oct-2026 a feb-2027 (largo radio a Asia: ~5–7 meses antes). El Black Friday no garantiza el mínimo; Travel Tuesday (princ. dic) suele ir mejor",
             "Buscar en modo multidestino (Google Flights / Skyscanner / Kiwi) y activar avisos de precio",
             "Hoja de trabajo completa: comparativa-vuelos.md (documento de sesión)"
@@ -376,12 +376,14 @@
           ]
         },
         {
-          "subtitle": "Tarifa open-jaw combinada real (09/11/2026) — Kayak/Momondo",
+          "subtitle": "Tarifa open-jaw combinada real (09/11/2026; re-lectura y corrección) — Kayak/Momondo",
           "items": [
             "Por fin leída la tarifa del billete único multidestino (ida MAD→NRT + vuelta KIX→MAD), 1 adulto, EUR, 13 noches. Kayak/Momondo aceptan el multidestino por URL; Google Flights y Skyscanner no",
             "A (17→31-may): 933 €/pers · China Eastern, 2 escalas; la opción de 1 escala sube a 1.067 €",
-            "D (18-may→1-jun): 769–780 €/pers · China Eastern, 1 escala vía Shanghái · ya por debajo del objetivo ≤ 800 € · ~2.310–2.340 € para 3 personas",
-            "C (20-may→3-jun): 865 €/pers · Cathay, 1 escala vía Hong Kong · opción comfort",
+            "D1 (18-may→1-jun, ida 5 h 55): 782 €/pers · D2 (ida 3 h 15): 844 €/pers · China Eastern, 1 escala vía Shanghái · 13 noches · D1 sigue bajo el objetivo ≤ 800 € · 2.346 € (D1) / 2.532 € (D2) para 3 personas",
+            "C12 (20-may→3-jun): 855 €/pers · Cathay, 1 escala vía Hong Kong · opción comfort, pero solo 12 noches (llega el 22-may y pierde una noche de Osaka)",
+            "C13a (20-may→4-jun): 800 €/pers · Cathay · 13 noches, pero con 15 h 40 de escala en HKG a la vuelta (34 h 25) · poco recomendable",
+            "C13b (20-may→4-jun): 941 €/pers · Cathay + Iberia, 2 escalas HKG+BCN · 13 noches y vuelta razonable (24 h 30)",
             "Ida-vuelta cerrada (17→31-may): 899 €/pers · Lufthansa; obliga a volver a Tokio y no ahorra el Shinkansen",
             "Variante saliendo a Haneda (HND): 657 €/pers · Air China, escalas de 17 h y 14 h 30 min → descartable",
             "Precios por tramo (Google Flights, 09/11/2026): ida 17-may desde 606 € (antes 670), 18-may desde 627, 20-may desde 541 ('precios bajos'); vuelta 31-may desde 510 € (antes 617)",
