@@ -6,7 +6,7 @@
     "origin": "Madrid, España",
     "budget_per_person": "2.800 € (tope)",
     "status": "pendiente",
-    "last_updated": "2026-11-09"
+    "last_updated": "2026-11-17"
   },
   "categories": [
     {
@@ -389,6 +389,22 @@
             "Precios por tramo (Google Flights, 09/11/2026): ida 17-may desde 606 € (antes 670), 18-may desde 627, 20-may desde 541 ('precios bajos'); vuelta 31-may desde 510 € (antes 617)",
             "Recomendación: comprar la opción D esta semana, confirmando equipaje y disponibilidad para 3 plazas; no esperar al Black Friday (27-nov) ni a Travel Tuesday (1-dic)",
             "Detalle completo: comparativa-vuelos.md §5.5 y tabla del punto 6"
+          ]
+        },
+        {
+          "subtitle": "Pasada 17/11/2026 — precios actualizados (Kayak/Momondo)",
+          "items": [
+            "Sondeo de todas las alternativas (saliendo a partir del 15-may-2027), 1 adulto, EUR, billete único open-jaw. Los cupos baratos del 09/11 ya volaron en 8 días: la tendencia es al alza",
+            "A (17→31-may): 940 €/pers · China Eastern Economy Light, 1 escala PVG ida + 2 escalas PVG/AMS vuelta (sube de 933 €)",
+            "B (15→29-may): 929 €/pers · 'Varias aerolíneas' con ida de 52 h (Atenas 8 h 15 autotransbordo + Singapur 21 h 55) → descartable; mejor aerolínea 1.161 €",
+            "C12 (20-may→3-jun): 879 €/pers · 'Varias' con ida de 52 h → descartable; Cathay ya no aparece (antes 855 €); mejor aerolínea Air China 974 €. Ojo: solo 12 noches",
+            "C13 (20-may→4-jun, 13 noches): 822 €/pers · Air China Economy, 2 escalas por tramo (PEK+PVG ida 22 h 50, PVG+PEK vuelta 27 h 10) → alternativa más barata viable; China Eastern 915 € (1 escala PVG por tramo)",
+            "D (18-may→1-jun, 13 noches): 851 €/pers · China Eastern Economy Standard, 1 escala PVG por tramo (ida 18 h 45 con 3 h 15 + vuelta 25 h 20 con 8 h 35) → mejor opción global; Kayak y Momondo coinciden; Cathay 935 €. La D1 de 782 € ya no aparece",
+            "E (19-may→2-jun): 895 €/pers · Air China con escala de 11 h 10 en PVG a la ida (29 h 10) → no compite",
+            "Ida-vuelta cerrada MAD↔NRT (17→31-may): 940 €/pers · Lufthansa (sube de 899 €); ya no es más barata que el open-jaw D",
+            "Variante saliendo a HND: 657 €/pers · Air China con escalas de 22 h 20 y 14 h 30 en Pekín → descartable por paliza",
+            "Recomendación actualizada: la D de 09/11 queda obsoleta. Comprar D (851 €/pers, 2.553 € para 3) o, si se prioriza precio, C13 Air China (822 €/pers, 2.466 € para 3). Confirmar 3 plazas y equipaje antes de comprar. No esperar al Black Friday (27-nov) ni Travel Tuesday",
+            "Detalle completo: comparativa-vuelos.md §5.6 y tabla del punto 6"
           ]
         }
       ]
