@@ -6,7 +6,7 @@
     "origin": "Madrid, España",
     "budget_per_person": "2.800 € (tope)",
     "status": "pendiente",
-    "last_updated": "2026-11-17"
+    "last_updated": "2026-11-19"
   },
   "categories": [
     {
@@ -405,6 +405,20 @@
             "Variante saliendo a HND: 657 €/pers · Air China con escalas de 22 h 20 y 14 h 30 en Pekín → descartable por paliza",
             "Recomendación actualizada: la D de 09/11 queda obsoleta. Comprar D (851 €/pers, 2.553 € para 3) o, si se prioriza precio, C13 Air China (822 €/pers, 2.466 € para 3). Confirmar 3 plazas y equipaje antes de comprar. No esperar al Black Friday (27-nov) ni Travel Tuesday",
             "Detalle completo: comparativa-vuelos.md §5.6 y tabla del punto 6"
+          ]
+        },
+        {
+          "subtitle": "Pasada 19/11/2026 — oferta anticipada (Kayak/Momondo)",
+          "items": [
+            "Revisión a 8 días del Black Friday (27-nov). No hay banners ni texto de 'Black Friday'/'Cyber' en Kayak ni Momondo: son bajadas dinámicas de cupos, no una campaña anunciada",
+            "E (19-may→2-jun): 776 €/pers · China Eastern Economy Light, 1 escala PVG por tramo (ida 21 h 50 con 5 h 55 + vuelta 25 h 20 con 8 h 35) · 13 noches · mejor oferta, 2.328 € para 3 · baja de 895 € el 17/11 · primera tarifa bajo el objetivo ≤ 800 € desde el 09/11",
+            "D (18-may→1-jun): 777 €/pers · China Eastern Light, ida 18 h 45 (PVG 3 h 15) pero vuelta 30 h 10 con escala de 13 h 45 → señuelo; la D decente (vuelta 20 h 40) sigue en 824 € · Cathay en D baja de 935 a 886 €",
+            "C13 (20-may→4-jun): 824 €/pers · Air China, 2 escalas por tramo · sin cambios; China Eastern 916 € si se quiere 1 escala por tramo",
+            "A (17→31-may): 950 €/pers (sube de 940) · B (15→29-may): 858 €/pers (baja de 929, pero ida 52 h 05 y vuelta 38 h → descartable) · C12 (20-may→3-jun): 893 €/pers (sube de 879; solo 12 noches; sin Cathay)",
+            "Ida-vuelta cerrada MAD↔NRT (17→31-may): 931 €/pers · Lufthansa (baja de 940); sigue más cara que D/E y obliga a volver a Tokio",
+            "Variante saliendo a HND: 716 €/pers · Air China con escalas de 22 h 20 y 14 h 30 en Pekín → descartable",
+            "Recomendación vigente: E (776 €/pers, 2.328 € para 3). Ojo: tarifa Light, probablemente sin maleta facturada; sumar el coste de equipaje antes de comparar con la D Standard de 851 € del 17/11. Confirmar 3 plazas y equipaje. No esperar al 27-nov: los mínimos ya aparecieron",
+            "Detalle completo: comparativa-vuelos.md §5.7 y tabla del punto 6"
           ]
         }
       ]
