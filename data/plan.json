@@ -6,7 +6,7 @@
     "origin": "Madrid, España",
     "budget_per_person": "2.800 € (tope)",
     "status": "pendiente",
-    "last_updated": "2026-11-19"
+    "last_updated": "2026-11-20"
   },
   "categories": [
     {
@@ -419,6 +419,21 @@
             "Variante saliendo a HND: 716 €/pers · Air China con escalas de 22 h 20 y 14 h 30 en Pekín → descartable",
             "Recomendación vigente: E (776 €/pers, 2.328 € para 3). Ojo: tarifa Light, probablemente sin maleta facturada; sumar el coste de equipaje antes de comparar con la D Standard de 851 € del 17/11. Confirmar 3 plazas y equipaje. No esperar al 27-nov: los mínimos ya aparecieron",
             "Detalle completo: comparativa-vuelos.md §5.7 y tabla del punto 6"
+          ]
+        },
+        {
+          "subtitle": "Pasada 20/11/2026 — nuevas fechas y mejor relación calidad/precio (Kayak/Momondo)",
+          "items": [
+            "Revisión de las opciones localizadas y sondeo de 9 fechas nuevas (16→30-may, 21→4-jun, 22→5-jun, 23→6-jun, 24→7-jun, 24→8-jun, 25→8-jun, 26→9-jun, 27→10-jun), 1 adulto, EUR, billete único open-jaw. Sin campaña de Black Friday anunciada: solo anuncios genéricos de aerolíneas y 'Activa la alerta de precios'",
+            "E (19-may→2-jun): 777 €/pers · China Eastern, 1 escala PVG por tramo (ida 21 h 50 con 5 h 55 + vuelta 25 h 20 con 8 h 35) · 13 noches · sigue la más barata (sube 1 €). Ojo: Kayak dice 'Clase Economy' y Momondo 'Economy Class Light' → lo más probable es Light",
+            "L (26-may→9-jun): 788 €/pers · Etihad Economy Basic, 1 escala de 1 h 45 en Abu Dabi por tramo (ida 19 h 00, vuelta 20 h 30) · 13 noches · 2.364 € para 3 · NUEVA RECOMENDACIÓN: 11 € más que E pero ~8 h menos de viaje y escalas mucho más cortas; Kayak y Momondo coinciden",
+            "J13 (24-may→8-jun): 800 €/pers · Cathay 'El mejor', Clase Economy, ida 23 h 55 con 6 h 55 en HKG + vuelta 21 h 45 con 3 h 05 · 13 noches · la alternativa cómoda con Cathay (la opción de 787 € tiene vuelta de 54 h con autotransbordo CDG→ORY → descartable)",
+            "I (23-may→6-jun): 929 €/pers · Qatar Turista Clásica ('El mejor'), 1 escala en Doha (ida 20 h 25 con 3 h 20 + vuelta 19 h 40 con 1 h 20) · opción premium; Cathay 874 € con vuelta de 34 h 25",
+            "Resto de alternativas conocidas: A 951 € (sube 1) · B 992 € (sube 134; el 858 ya no existe; vuelta 38 h) · C12 891 € (baja 2; solo 12 noches) · C13 824 € (sin cambios) · D 779 € (señuelo: vuelta 30 h 10 con escala 13 h 45; 'El mejor' 826 €; Cathay 888 €) · HND 683 € (descartable) · ida-vuelta cerrada 921 € (baja 10)",
+            "Otras fechas nuevas: F (16→30-may) 874 € Cathay con vuelta 34 h 25 (HKG 15 h 40) · G (21-may→4-jun) 874 € Cathay Light, misma vuelta larga · H (22-may→5-jun) 958 € con ida 57 h 45 · K (25-may→8-jun) 853 € Etihad Basic con ida 31 h 55 · M (27-may→10-jun) 811 € Cathay Light, llega el 29-may → solo 12 noches",
+            "Movimiento 19→20-nov: A +1, B +134, C12 −2, C13 0, D +2, E +1, HND −33, cerrado −10 → prácticamente plano en las opciones conocidas; la novedad está en las fechas 24–26-may",
+            "Recomendación vigente: L (788 €/pers, 2.364 € para 3) por relación calidad/precio; E (777 €) si se quiere el mínimo absoluto; J13 (800 € Cathay) si se prefiere comodidad. Todas son tarifas Basic/Light: confirmar equipaje facturado y 3 plazas en la aerolínea. No esperar al 27-nov: los mínimos ya aparecieron",
+            "Detalle completo: comparativa-vuelos.md §5.8 y tabla del punto 6"
           ]
         }
       ]
